@@ -28,6 +28,13 @@ docker run --rm \
   sh -c 'cd /data/ && swift upload my-backup-storage backup.zip'
 ```
 
+## Docs
+
+Managing a server:
+https://docs.openstack.org/python-openstackclient/latest/cli/command-objects/server.html
+Managing a stack:
+https://docs.openstack.org/heat/latest/getting_started/create_a_stack.html
+
 ## Want to contribute?
 
 Just create an issue :tada:
